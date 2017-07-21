@@ -1,6 +1,0 @@
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\bin\Debug\BattleShips.exe
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\obj\Debug\BattleShips.csprojResolveAssemblyReference.cache
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\obj\Debug\BattleShips.exe
-c:\users\teo\documents\visual studio 2015\Projects\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
